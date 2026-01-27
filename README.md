@@ -25,10 +25,10 @@ git clone https://github.com/shahid2005a/Digital.git
 cd Digital
 
 ```
-bash Digital.sh
+
 
 ```
-cd 
+bash Digital.sh
 ```
 
 ### Digital Hosting 
