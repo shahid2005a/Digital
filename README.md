@@ -20,9 +20,13 @@ pkg install npm
 
 pkg install git 
 ```
+git clone https://github.com/shahid2005a/Digital.git
 ```
-bash webcam.sh
+cd Digital
+
 ```
+bash Digital.sh
+
 ```
 cd 
 ```
