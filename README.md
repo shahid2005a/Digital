@@ -1,5 +1,11 @@
+<h1>
+  <a href="https://youtube.com/shorts/WaUjhjtcXhU?si=m_tJFVl5rNGk_UHl">
+    🎥 Demo Video:
+  </a>
+</h1>
+
 <h1 align="center">
-  <u>Hosting to Digitalhost</u>  
+  <u>DGTL to HOST</u>  
   <br>
 
 ### 𝕋𝔼ℝ𝕄𝕌𝕏 ℂ𝔸𝕄𝕄𝔸ℕ𝔻
@@ -28,10 +34,10 @@ cd Digital
 
 
 ```
-bash Digital.sh
+bash Dgtlhost.sh
 ```
 
-### Digital Hosting 
+### DGTL HOST 
 
 
 ## 📌 Contact Me  
